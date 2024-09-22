@@ -19,17 +19,10 @@ pesikj@fek.zcu.cz
 
 ---
 
-# Obsah přednášky
-
-- Měkké soustavy
-- Systémové modelování
-- Systémové archetypy
-
----
-
 # Měkké soustavy
 
-- Prohloubení možností aplikace systémových přístupů k sociálním systémům odráží subjektivní zájmy, přístupy a postoje včetně neurčitosti spojené se subjektivní interpretací informace a vágností jazyka (tvrdé metody jsou úspěšné jen pro dobře strukturované problémy deterministického charakteru).
+- Prohloubení možností aplikace systémových přístupů k sociálním systémům odráží subjektivní zájmy, přístupy a postoje.
+- Neurčitosti spojené se subjektivní interpretací informace a vágností jazyka.
 
 ---
 
@@ -37,9 +30,17 @@ pesikj@fek.zcu.cz
 
 - Metodologie měkkých systémů (-Soft Systems Methodology-)
 - Oprava motoru auta - technický problém
-- Plánování dopravy ve městě
-  - Velké množství různých lidí, které mají různý zájem (motoristé, cyklisté, uživatelné hromadné dopravy, rodiče, uživatelů elektromobilů atd.).
+- Plánování dopravy ve městě - zahrnuje chování lidí
+  - Velké množství různých lidí, které mají různý zájem (motoristé, cyklisté, uživatelé hromadné dopravy, rodiče, uživatelé elektromobilů atd.).
 
+---
+
+## Příklad přístupu - teorie veřejné volby
+
+- Chování jednotlivých aktérů (sledují svůj soukromý zájem)
+- Analýza incentivů
+- Společné rozhodování (regulace, volební systémy)
+- Byrokratické systémy
 
 ---
 
@@ -65,16 +66,16 @@ pesikj@fek.zcu.cz
 
 ---
 
-# Smyčkové diagramy (Casual Loop Diagram - CLD)
+# Smyčkové diagramy (Causual Loop Diagram - CLD)
 
-- Jeden ze způsobí, jak vytvořit schéma systému
+- Jeden ze způsobů, jak vytvořit schéma systému
 - Klíčové proměnné, vzájemně se ovlivňují
   - Objektivně měřitelné (skladové zásoby, zisk)
   - Neměřitelné (důvěra zákazníků, motivace zaměstnanců, firemní kultura)
 
 ---
 
-# Smyčkové diagramy (Casual Loop Diagram - CLD)
+# Smyčkové diagramy (Causual Loop Diagram - CLD)
 
 - Vztahy mezi proměnnými
   - Musí být vždy jednoznačný
@@ -106,7 +107,7 @@ pesikj@fek.zcu.cz
 # Posilující smyčka
 
 - Společnost investuje do marketingu procento z tržeb za vydané produkty
-- Vzniká posilájící smyčka: prodej produktů → zvýšení tržeb → zvýšení investic do marketingu → zvýšení prodeje
+- Vzniká posilující smyčka: prodej produktů → zvýšení tržeb → zvýšení investic do marketingu → zvýšení prodeje
 
 ---
 
@@ -188,8 +189,8 @@ pesikj@fek.zcu.cz
   - Zákazníci si zvyknou na sníženou cenu
   - Poškození image společnosti
 - Společnost využije úvěr k masivním investicím za účelem zvýšení nebo udržení tržního podílu.
-  - Dopad na cash-flow cash-flow, zisk (platba úroků) 
-  - Např. Toys "R"
+  - Dopad na cash-flow, zisk (platba úroků) 
+  - Např. Toys 'R'
 
 ---
 
@@ -288,7 +289,7 @@ pesikj@fek.zcu.cz
 - Rychlý růst služby Uber
   - Nedostatek řidičů (řešen zvýšením mezd, které zdražily službu)
   - Státní a místní regulace
-- Nasecení trhu
+- Nasycení trhu
   - Netflix (plus náklady na tvorbu vlastního obsahu)
   - Snapchat (plus konkurenční produkty jako Instagram Stories, problém s monetizací)
 - Růst množství funkcí (*features*) služby
@@ -298,6 +299,10 @@ pesikj@fek.zcu.cz
 ---
 
 ![bg fit](images/cld_10.svg)
+
+---
+
+![bg fit](images/cld_13.svg)
 
 ---
 
@@ -311,7 +316,7 @@ pesikj@fek.zcu.cz
 
 # Úspěch úspěšným
 
-- Více činností soutěží o zdroje. Čím většího úspěchu jedna z nich dosahuje, tím větší podporu získává na úkor druhé
+- Více činností soutěží o zdroje. Čím většího úspěchu jedna z nich dosahuje, tím větší podporu získává na úkor druhé.
 
 ---
 
@@ -367,11 +372,12 @@ pesikj@fek.zcu.cz
 
 # Eroze cílů
 
-- Krátkodobé řešení vede k rozkladu dlouhodobého cíle, snižujeme nároky na sebe sama, budeme méně úspěšní.
+- Nedosažení nějakého cíle vede k tomu, že snižujeme cíle, abychom cíle dosáhli. Tím cíle erodují.
+- Dlouhodobým důsledkem je snížení nároků, přijetí nízkých výkonů jako standard.
 
 ---
 
-## Eroding Goals (příklady)
+## Eroze cílů (příklady)
 
 - Oddalování investic do výzkumu a vývoje (krátkodobý růst zisku)
   - Snížení nákladů na R&D → pomalý inovační cyklus
@@ -382,7 +388,7 @@ pesikj@fek.zcu.cz
 
 ---
 
-## Eroding Goals (příklady)
+## Eroze cílů (příklady)
 
 - Snížení standardů na výběr dodavatelů
   - Výběr levnějších dodavatelů → nižší kvalita materiálů
@@ -390,15 +396,9 @@ pesikj@fek.zcu.cz
 - Snižování rozpočtu na školení zaměstnanců
   - Krátkodobá úspora → nižší odbornost zaměstnanců
   - Erodovaný cíl: Kvalitní lidské zdroje
-- Snižování cen v reakci na konkurenci
-  - Snížení cen → krátkodobý zisk → nižší ziskovost
-  - Erodovaný cíl: Zdravá zisková marže
 - Snižování výdajů na údržbu infrastruktury
   - Krátkodobé úspory → dlouhodobé opotřebení
   - Erodovaný cíl: Udržitelnost provozu, nárůst vnitřního dluhu
-- Omezování zákaznické podpory
-  - Snížení nákladů na podporu → nespokojení zákazníci
-  - Erodovaný cíl: Zákaznická spokojenost
 
 ---
 
@@ -441,59 +441,60 @@ pesikj@fek.zcu.cz
 
 # Eskalace
 
-- Každý úspěch protistrany vyvolává pocit orožení, zvýšení agresivity, atd. 
+- Každý úspěch protistrany vyvolává pocit ohrožení, zvýšení agresivity, atd. 
 - Každá strana považuje svoji útočnost za obrannou reakci, což vede k vystupňování, s nímž původně nikdo nepočítal.
+
+---
+
+![bg fit](images/cld_13.svg)
 
 ---
 
 ## Eskalace (příklady)
 
-- Cenová válka mezi obchodními řetězci
-  - Snížení cen → reakce konkurence → další snižování cen
-  - Klesající marže
-- Reklamní výdaje mezi Coca-Cola a Pepsi
-  - Zvýšení reklamy → reakce konkurence → další navyšování
-  - Rostoucí náklady
-- Funkční závody mezi Apple a Samsung
-  - Nové funkce → reakce konkurence → další inovace
-  - Zvyšující se náklady na vývoj
-- Zvýšení mezd pro přilákání zaměstnanců
-  - Zvýšení mezd (nebo přidávání benefitů) → reakce konkurence → další navyšování
-  - Rostoucí personální náklady
 - Eskalace obchodních cel mezi státy
   - Zavedení cel → odvetné tarify → další zvyšování
   - Omezení obchodu
+- Cenová válka mezi obchodními řetězci
+  - Snížení cen → reakce konkurence → další snižování cen
+- Zvýšení mezd pro přilákání zaměstnanců
+  - Zvýšení mezd (nebo přidávání benefitů) → reakce konkurence → další navyšování
+  - Rostoucí personální náklady
+
+---
+
+![bg fit](images/cld_14.svg)
+
+---
+
+## Eskalace (příklady)
+
+- Závody mezi Apple a Samsung
+  - Nové funkce → reakce konkurence → další inovace
+  - Zvyšující se náklady na vývoj
 - Zvýšení rychlosti doručení mezi logistickými firmami
   - Rychlejší doručení → reakce konkurence → další zrychlení
-  - Vyšší provozní náklady
-- Závody v počtu poboček bank
-  - Otevírání nových poboček → reakce konkurence → další expanze
-  - Náklady na provoz
-- Eskalace benefitů u platebních karet
-  - Lepší výhody → reakce konkurence → další vylepšení
-  - Snižující se marže
-- Zvýšení počtu produktů v portfoliu
-  - Rozšíření nabídky → reakce konkurence → další rozšiřování
-  - Komplexita řízení
+- Reklamní výdaje mezi Coca-Cola a Pepsi
+  - Zvýšení reklamy → reakce konkurence → další navyšování
+  - Rostoucí náklady
+
 
 ---
 
 ## Eskalace (opatření)
 
-- Spolupráce s konkurencí
+- Spolupráce s konkurencí (nelegální kartelové dohody)
 - Zaměření na unikátní hodnotu
-- Regulace odvětví
-- Stanovení limitů
+- Regulace odvětví 
 - Orientace na dlouhodobou strategii
 - Komunikace a vyjednávání
-
 
 ---
 
 # Tragédie obecní pastviny (tragédie společného vlastnictví)
 
 - Jednotlivec, který využívá společný zdroj, čerpá výhody jako jediný, ale náklady jsou rozprostřené rovnoměrně.
-- Postupně dojde k vyčerpání spoleného zdroje.
+- Postupně dojde k vyčerpání společného zdroje.
 
 ---
 
@@ -555,7 +556,16 @@ pesikj@fek.zcu.cz
 
 ---
 
+![bg fit](images/Rozklad_benforda.svg.png)
+
+---
+
 ## Monty Hallův paradox
+
+* 3 dveře, za jedněmi z nich je výhra. Vyhrajeme, pokud vybereme dveře s cenou.
+* Vybereme jedny z nich. Následně jsou otevřeny jiné dveře, za kterými není výhra.
+* Zbývají tedy 2 dveře - ty, které jsme si vybrali na začátku, a jedny zbývající. Můžeme změnit naše rozhodnutí a vybrat si druhé dveře.
+* Otázka: Zvýšíme pravděpodobnost výhry výměnou vybraných dveří?
 
 ---
 
@@ -574,7 +584,6 @@ pesikj@fek.zcu.cz
   - Lidé přeceňují pravděpodobnost událostí, které mají vysokou publicitu (např. pád letadla, útok žraloka atd.)
 - Paradox výběru
   - Příliš velké množství možností je pro zákazníka horší než malé množství.
-
 
 ---
 
