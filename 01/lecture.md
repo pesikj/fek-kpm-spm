@@ -21,24 +21,24 @@ pesikj@fek.zcu.cz
 
 # Podmínky získání zápočtu
 
-* Zpracování a úspěšná obhajoba semestrální práce
-* Je potřeba získat min. 25 bodů
-  * 5 bodů za sestavení funkčního modelu dle zadání (včetně výchozích hodnot),
-  * 10 bodů za optimalizaci parametrů modelu a zdůvodnění upravených parametrů,
-  * 10 bodů za propojení s nejbližší skupinou,
-  * 10 bodů za propojení s nejbližší dvojicí skupin,
-  * 15 bodů za účast na přednášce externího hosta (7. října 2024).
+- Zpracování a úspěšná obhajoba semestrální práce
+- Je potřeba získat min. 25 bodů
+  - 5 bodů za sestavení funkčního modelu dle zadání (včetně výchozích hodnot),
+  - 10 bodů za optimalizaci parametrů modelu a zdůvodnění upravených parametrů,
+  - 10 bodů za propojení s nejbližší skupinou,
+  - 10 bodů za propojení s nejbližší dvojicí skupin,
+  - 15 bodů za účast na přednášce externího hosta (7. října 2024).
 
 ---
 
 # Zkouška
 
-* Písemný test
-  * 10 otázek hodnocených ve stupnici 0 (nejhorší) - 5 (nejlepší),  tj. celkem max. 50 bodů. 
-  * Minimální počet bodů pro uznání zkoušky: 25
-* Konečné hodnocení je dáno **součtem** bodů za semestrální práci a za závěrečný test.
+- Písemný test
+  - 10 otázek hodnocených ve stupnici 0 (nejhorší) - 5 (nejlepší),  tj. celkem max. 50 bodů. 
+  - Minimální počet bodů pro uznání zkoušky: 25
+- Konečné hodnocení je dáno --součtem-- bodů za semestrální práci a za závěrečný test.
 
-* Vacek,J., Pešík, J. (2022) Systémové přístupy v managementu. https://dspace5.zcu.cz/handle/11025/50864
+- Vacek,J., Pešík, J. (2022) Systémové přístupy v managementu. https://dspace5.zcu.cz/handle/11025/50864
 
 ---
 
@@ -69,21 +69,21 @@ pesikj@fek.zcu.cz
 
 V managementu se každodenně setkáváme s potřebou řešit podnikové, organizační, personální, technické a další problémy, které jsou navzájem propojeny jak interně, tak externě. Pokud nebereme jejich souvislosti dostatečně v úvahu, budou naše řešení neefektivní, případně budou mít nepředvídané následky.
 
-Takové komplexní problémy vyžadují **systémový (celostní, holistický) přístup**.
+Takové komplexní problémy vyžadují --systémový (celostní, holistický) přístup--.
 
 ---
 
 # Co je systém a jak se chová?
 
-**Systém** je souborem závislých prvků, které mezi sebou vzájemně **interagují**.
+--Systém-- je souborem závislých prvků, které mezi sebou vzájemně --interagují--.
 
-**Vstupy** do systému jsou prostřednictvím procesů, nástrojů a technik **transformovány** na **výstupy**, které jsou často vstupy do jiných komponent systému nebo do jiných systémů.
+--Vstupy-- do systému jsou prostřednictvím procesů, nástrojů a technik --transformovány-- na --výstupy--, které jsou často vstupy do jiných komponent systému nebo do jiných systémů.
 
 ---
 
 # Co je systém a jak se chová?
 
-Vzhledem k těmto vazbám a vlivům je chování systému složité – každá **změna prvku** nebo vazby způsobí **změnu chování systému**.
+Vzhledem k těmto vazbám a vlivům je chování systému složité – každá --změna prvku-- nebo vazby způsobí --změnu chování systému--.
 
 Systémové myšlení je důležité pro řešení všech komplexních problémů v manažerských disciplínách a je jedinou cestou, jak dospět k dlouhodobým řešení, předejít opakujícím se problémům a minimalizovat neočekávané důsledky.
 
@@ -120,9 +120,9 @@ Systémové myšlení je důležité pro řešení všech komplexních problém�
 
 # Příklad interakce a zpětné vazby
 
-* R&D vyvine nový produkt. → Marketingové oddělení připraví marketingovou kampaň. → Výrobní oddělení připraví výrobu. → Finanční oddělení zajistí dostatek finančních zdrojů.
+- R&D vyvine nový produkt. → Marketingové oddělení připraví marketingovou kampaň. → Výrobní oddělení připraví výrobu. → Finanční oddělení zajistí dostatek finančních zdrojů.
 
-* Organizace vyvine nový produkt. → Zákazníci poukážou na nedostatky produktu. → Organizace připraví novou verzi produktu. → Vylepšený produkt získá více zákazníků, kteří vygenerují větší množství zpětné vazby.
+- Organizace vyvine nový produkt. → Zákazníci poukážou na nedostatky produktu. → Organizace připraví novou verzi produktu. → Vylepšený produkt získá více zákazníků, kteří vygenerují větší množství zpětné vazby.
 
 ---
 
@@ -192,7 +192,7 @@ Systémové myšlení je důležité pro řešení všech komplexních problém�
 
 # Systémové (celostní, holistické) rozhodování
 
-- Při rozhodování je potřeba brát v úvahu **systém jako celek**, nikoli jeden jeho prvek nebo skupinu prvků.
+- Při rozhodování je potřeba brát v úvahu --systém jako celek--, nikoli jeden jeho prvek nebo skupinu prvků.
 - Např. nákup materiálu od jiného dodavatele může mít negativní vliv na kvalitu produktu.
 
 ---
@@ -232,7 +232,7 @@ Systémové myšlení je důležité pro řešení všech komplexních problém�
 # Příklady použití
 
 - Optimalizace rozvrhu letů (optimalizace využití letadel, posádek atd.)
-- Optizalizace dodavatelského řetězce (*vehicle routing problem - VHP*)
+- Optizalizace dodavatelského řetězce (-vehicle routing problem - VHP-)
 - Zdravotnictví (využití personálu, operačních sálů atd.)
 
 ---
@@ -294,7 +294,7 @@ Příklad použití na vývoj autonomních vozidel Tesla
 - Definování problému nebo úlohy (systému)
   - Vývoj plně autonomního řídícího systému, provoz v různých podmínkách, adaptace dopravním předpisům atd.
 - Stanovení (systémových) cílů
-  - Bezpečnost, spolehlivost, uživatelský zážitek (*user experience*), splnění legislativních požadavků
+  - Bezpečnost, spolehlivost, uživatelský zážitek (-user experience-), splnění legislativních požadavků
 
 ---
 
@@ -359,7 +359,7 @@ Příklad použití na vývoj autonomních vozidel Tesla
 
 # Příklady aplikace inženýrské psychologie
 
-- U armádního vybavení též předpokládáme používání ve stresu (*decision fatigue*)
+- U armádního vybavení též předpokládáme používání ve stresu (-decision fatigue-)
 - Sociální sítě (nekonečné scrollování, systém notifikací, systémy na doporučování obsahu, usnadnění sdílení obsahu - potlačení odkazů mimo síť)
 - Systém řízení jaderné elektrárny (systém upozornění na kritické události)
 - Počítačové hry
@@ -417,10 +417,10 @@ Příklad použití na vývoj autonomních vozidel Tesla
 
 # Odkazy a zdroje
 
-* [Starbucks CEO Targets Busy Stores, Simplifies Complex Menu](https://several.com/news/starbucks-ceo-targets-busy-stores-simplifies-complex-menu)
-* [Seriál Mayday, epizoda "Pilot Betrayed"](https://www.facebook.com/watch/?v=1735388183479422)
-* [LiDAR: The Driving Technology for Autonomous and Semi-Autonomous Mobility](https://www.geospatialworld.net/prime/business-and-industry-trends/lidar-the-driving-technology-for-autonomous-and-semi-autonomous-mobility/)
-* [BlackBerry Phone — How Does it Look Today?](https://dmitryelj.medium.com/blackberry-phone-how-does-it-look-today-a6562208fa7b)
-* [Záchranka](https://www.zachrankaapp.cz/)
-* [What are Microservices? How does Microservices architecture work?](https://middleware.io/blog/microservices-architecture/)
-* [Why You Need a Data Flow Diagram](https://www.hbs.net/blog/why-you-need-a-data-flow-diagram/)
+- [Starbucks CEO Targets Busy Stores, Simplifies Complex Menu](https://several.com/news/starbucks-ceo-targets-busy-stores-simplifies-complex-menu)
+- [Seriál Mayday, epizoda "Pilot Betrayed"](https://www.facebook.com/watch/?v=1735388183479422)
+- [LiDAR: The Driving Technology for Autonomous and Semi-Autonomous Mobility](https://www.geospatialworld.net/prime/business-and-industry-trends/lidar-the-driving-technology-for-autonomous-and-semi-autonomous-mobility/)
+- [BlackBerry Phone — How Does it Look Today?](https://dmitryelj.medium.com/blackberry-phone-how-does-it-look-today-a6562208fa7b)
+- [Záchranka](https://www.zachrankaapp.cz/)
+- [What are Microservices? How does Microservices architecture work?](https://middleware.io/blog/microservices-architecture/)
+- [Why You Need a Data Flow Diagram](https://www.hbs.net/blog/why-you-need-a-data-flow-diagram/)
