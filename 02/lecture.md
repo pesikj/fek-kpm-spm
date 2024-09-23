@@ -35,15 +35,6 @@ pesikj@fek.zcu.cz
 
 ---
 
-## Příklad přístupu - teorie veřejné volby
-
-- Chování jednotlivých aktérů (sledují svůj soukromý zájem)
-- Analýza incentivů
-- Společné rozhodování (regulace, volební systémy)
-- Byrokratické systémy
-
----
-
 # Jak popsat systém
 
 - Slovní popis
