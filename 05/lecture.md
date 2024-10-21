@@ -96,6 +96,17 @@ pesikj@fek.zcu.cz
 
 ---
 
+## Skrytá vrstva
+
+- **Skrytá vrstva** je střední vrstva v neuronové síti
+  - Není přímo přístupná vstupním nebo výstupním datům
+  - Hraje klíčovou roli při extrakci vzorců a vztahů
+- **Transformace vstupů** na nové reprezentace
+  - Pomocí váhových koeficientů a aktivačních funkcí
+- Skryté vrstvy přispívají k nelinearitě a schopnosti sítě učit se komplexní vztahy
+
+---
+
 ## Trénování
 
 - Trénování neuronové sítě zahrnuje **optimalizaci vah** mezi neurony tak, aby síť správně předpovídala výsledky.
@@ -199,7 +210,7 @@ pesikj@fek.zcu.cz
 
 ---
 
-# Řešení a pokročilé techniky
+## Další techniky
 
 - V novějších verzích modelů GPT byla velikost kontextového okna zvětšena, aby bylo možné **pracovat s delšími texty** (např. GPT-4 má větší kontextové okno než GPT-3).
 - Některé systémy používají **strategické rozdělení textu** nebo **rekurentní aktualizace** kontextového okna, aby udržely důležité informace během generování delšího textu.
@@ -239,6 +250,42 @@ pesikj@fek.zcu.cz
 - Etické otázky (modely mohou **generovat nevhodný obsah** nebo být zneužity k vytváření dezinformací)
 - Modely jako GPT někdy generují **nepředvídatelné nebo nevhodné odpovědi**.
 - Výsledky jsou často **neprůhledné**, což ztěžuje vysvětlování rozhodnutí modelu v kritických aplikacích, jako je zdravotnictví nebo právo.
+
+---
+
+# Unsupervised learning (učení bez učitele)
+
+- U dat nemáme k dispozici "správné výsledky"
+- Shlukování (*clustering*)
+  - Skupiny podobných datových bodů se seskupují do klastrů
+  - Algoritmy: K-means, DBSCAN, Hierarchické shlukování
+  - Např. marketing (skupiny zákazníků)
+
+---
+
+## Unsupervised learning (učení bez učitele)
+
+- Snížení dimenzionality (*dimensionality reduction*)
+  - Zjednodušení dat při zachování podstatných informací
+  - Algoritmy: PCA (Principal Component Analysis), t-SNE
+- Asociační pravidla (*association rule learning*)
+  - Nalézání pravidel mezi datovými body (často v transakčních datech)
+- Hledání anomálií
+  - Anomálie je hodnota, která se výrazně liší od většiny
+  - Např. detekce poruch, kybernetická bezpečnost
+
+---
+
+## Shlukování - K-means algoritmus
+
+- Algoritmus pro rozdělení datových bodů do **K shluků**
+  - Každý shluk má **středový bod** (*centroid*)
+- Postup:
+  1. Inicializace náhodných centroidů
+  2. Přidělení datových bodů k nejbližšímu centroidu
+  3. Aktualizace centroidů podle průměru přidělených bodů
+  4. Opakování, dokud nedojde ke konvergenci
+- Datové body jsou rozděleny do skupin na základě podobností
 
 ---
 
@@ -292,6 +339,23 @@ pesikj@fek.zcu.cz
 
 ![bg fit](images/collaborative-filtering.png)
 
+---
+
+## Měření vzdálenosti
+
+- **Míra vzdálenosti** slouží k porovnání podobnosti mezi uživateli nebo položkami
+  - Základem pro doporučení podobných produktů či obsahu
+- Kosinusová podobnost porovnává úhel mezi dvěma vektory, což umožňuje měřit podobnost bez ohledu na velikost
+- Jaccardová vzdálenost je počet prvků v průniku.
+- Volba míry vzdálenosti ovlivňuje přesnost a kvalitu doporučení
+
+---
+
+![bg fit](images/cosine.png)
+
+---
+
+![bg fit](images/jaccard.jpg)
 
 ---
 
@@ -308,3 +372,5 @@ pesikj@fek.zcu.cz
 - [Neural Networks and Deep Learning Course](https://rukshanpramoditha.medium.com/list/neural-networks-and-deep-learning-course-a2779b9c3f75)
 - [Artificial Neural Networks and its Applications](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/)
 - [Convolutional Neural Networks (CNNs) : A Complete Guide](https://medium.com/@alejandro.itoaramendia/convolutional-neural-networks-cnns-a-complete-guide-a803534a1930)
+- [Jaccard Similarity](https://www.learndatasci.com/glossary/jaccard-similarity/)
+- [Cosine similarity](https://www.oreilly.com/library/view/statistics-for-machine/9781788295758/eb9cd609-e44a-40a2-9c3a-f16fc4f5289a.xhtml)
