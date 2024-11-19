@@ -374,3 +374,4 @@ pesikj@fek.zcu.cz
 - [Convolutional Neural Networks (CNNs) : A Complete Guide](https://medium.com/@alejandro.itoaramendia/convolutional-neural-networks-cnns-a-complete-guide-a803534a1930)
 - [Jaccard Similarity](https://www.learndatasci.com/glossary/jaccard-similarity/)
 - [Cosine similarity](https://www.oreilly.com/library/view/statistics-for-machine/9781788295758/eb9cd609-e44a-40a2-9c3a-f16fc4f5289a.xhtml)
+- [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/pdf/2410.05229)
